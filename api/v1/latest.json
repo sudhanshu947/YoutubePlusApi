@@ -3,7 +3,7 @@
 	"manager": {
 		"version": "2.6.3",
 		"versionCode": 220714,
-		"url": "https://github.com/inotia00/VancedManager/releases/latest/download/manager.apk",
+		"url": "https://github.com/sudhanshu947/YTPlus_Manager/releases/latest/download/manager.apk",
 		"changelog": "- Gradle update /n- Fix the problem that VirusTotal detects Trojan when building with BuildType set to 'release'"
 	},
   	"vanced": {
