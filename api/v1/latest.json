@@ -7,7 +7,7 @@
 		"changelog": "- Gradle update /n- Fix the problem that VirusTotal detects Trojan when building with BuildType set to 'release'"
 	},
   	"vanced": {
-    "version": "17.28.323",
+    "version": "17.28.32",
     "versionCode": 1530512832,
     "themes": ["dark", "black"],
     "langs": [
