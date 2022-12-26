@@ -1,34 +1,35 @@
  {
    "Fruits": [
      {
-       "Id": 100001,
-       "Item": "Manngo",
+       "Id": [""],
+       "Version": "1",
        "Qty": 20,
        "price": 10000
      },
      {
-       "Id": 100002,
-       "Item": "Durian",
+       "Id": ["17.49.37"],
+       "Version": "Durian",
        "Qty": 50,
        "price": 50000
      },
      {
-       "Id": 100003,
-       "Item": "Pisang",
+       "Id": ["17.49.37"],
+       "Version": "Pisang",
        "Qty": 110,
        "price": 70000
      },
      {
-       "Id": 100004,
-       "Item": "Aple",
+       "Id": ["17.49.37"],
+       "Version": "Aple",
        "Qty": 90,
        "price": 900000
      },
      {
-       "Id": 100005,
-       "Item": "Salak",
+       "Id": ["17.49.37"],
+       "Version": "Salak",
        "Qty": 100,
        "price": 75000
      }
    ]
  }
+ 
