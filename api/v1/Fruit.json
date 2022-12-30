@@ -1,34 +1,10 @@
  {
    "Fruits": [
      {
-       "Id":  9.6.0,
+       "Id":  "9.6.0",
        "Version": "9.6.0",
        "Qty": 20,
        "price": 10000
-     },
-     {
-       "Id": 9.5.0,
-       "Version": "9.5.0",
-       "Qty": 50,
-       "price": 50000
-     },
-     {
-       "Id": 9.3.0,
-       "Version": "9.3.0",
-       "Qty": 110,
-       "price": 70000
-     },
-     {
-       "Id": 9.2.0,
-       "Version": "9.2.0",
-       "Qty": 90,
-       "price": 900000
-     },
-     {
-       "Id": Salak,
-       "Version": "Salak",
-       "Qty": 100,
-       "price": 75000
      }
    ]
  }
